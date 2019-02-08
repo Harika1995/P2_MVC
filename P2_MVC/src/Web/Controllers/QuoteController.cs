@@ -20,7 +20,7 @@ namespace dotnet_mvc.Controllers
         }   
         public IActionResult ShowText()
         {
-            return Content("Text Display.. ");
+            return Content("Text Display...");
         }
         public IActionResult ShowJSON()
         {
