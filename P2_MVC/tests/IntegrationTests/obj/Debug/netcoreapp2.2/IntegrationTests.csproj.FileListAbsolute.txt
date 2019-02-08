@@ -1,0 +1,14 @@
+C:\Users\s533711\Desktop\Semester 2\C# .NET\P2_MVC\P2_MVC\tests\IntegrationTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\s533711\Desktop\Semester 2\C# .NET\P2_MVC\P2_MVC\tests\IntegrationTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\s533711\Desktop\Semester 2\C# .NET\P2_MVC\P2_MVC\tests\IntegrationTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\s533711\Desktop\Semester 2\C# .NET\P2_MVC\P2_MVC\tests\IntegrationTests\bin\Debug\netcoreapp2.2\IntegrationTests.deps.json
+C:\Users\s533711\Desktop\Semester 2\C# .NET\P2_MVC\P2_MVC\tests\IntegrationTests\bin\Debug\netcoreapp2.2\IntegrationTests.runtimeconfig.json
+C:\Users\s533711\Desktop\Semester 2\C# .NET\P2_MVC\P2_MVC\tests\IntegrationTests\bin\Debug\netcoreapp2.2\IntegrationTests.runtimeconfig.dev.json
+C:\Users\s533711\Desktop\Semester 2\C# .NET\P2_MVC\P2_MVC\tests\IntegrationTests\bin\Debug\netcoreapp2.2\IntegrationTests.dll
+C:\Users\s533711\Desktop\Semester 2\C# .NET\P2_MVC\P2_MVC\tests\IntegrationTests\bin\Debug\netcoreapp2.2\IntegrationTests.pdb
+C:\Users\s533711\Desktop\Semester 2\C# .NET\P2_MVC\P2_MVC\tests\IntegrationTests\obj\Debug\netcoreapp2.2\IntegrationTests.csprojAssemblyReference.cache
+C:\Users\s533711\Desktop\Semester 2\C# .NET\P2_MVC\P2_MVC\tests\IntegrationTests\obj\Debug\netcoreapp2.2\IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Users\s533711\Desktop\Semester 2\C# .NET\P2_MVC\P2_MVC\tests\IntegrationTests\obj\Debug\netcoreapp2.2\IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\s533711\Desktop\Semester 2\C# .NET\P2_MVC\P2_MVC\tests\IntegrationTests\obj\Debug\netcoreapp2.2\IntegrationTests.AssemblyInfo.cs
+C:\Users\s533711\Desktop\Semester 2\C# .NET\P2_MVC\P2_MVC\tests\IntegrationTests\obj\Debug\netcoreapp2.2\IntegrationTests.dll
+C:\Users\s533711\Desktop\Semester 2\C# .NET\P2_MVC\P2_MVC\tests\IntegrationTests\obj\Debug\netcoreapp2.2\IntegrationTests.pdb
